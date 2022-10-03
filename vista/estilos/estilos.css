@@ -1,0 +1,13 @@
+body{
+    background-image: url("../images/fodoInicial.jpg");
+}
+
+.btnLogin{
+    width: 8em;
+    background-color: white;
+    font-size: large;
+    font-weight: bolder;
+    display: inline-block;
+
+    margin-left: 100em;
+}
